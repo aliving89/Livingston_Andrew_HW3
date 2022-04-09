@@ -8,8 +8,6 @@ A virtual quiz where the user chooses from 1 of the given Marvel characters - an
 
 ## Required Programs and Packages
 [Python 3](https://www.python.org/)
-[Colorama](https://pypi.org/project/colorama/)
-[Emoji](https://pypi.org/project/emoji/)
 [Pillow](https://pypi.org/project/Pillow/)
 
 ## MIT License
