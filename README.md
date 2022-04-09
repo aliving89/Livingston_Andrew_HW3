@@ -1,6 +1,6 @@
 # Interactive Marvel Quiz
 
-A virtual quiz where the user chooses from 1 of the given Marvel characters - answers a series of questions with a "yes/y" or "no/n" response, and the python quiz will guess which character you chose!
+A virtual quiz where the user chooses from 1 of the given Marvel characters - answers a series of questions with a "yes" or "no" response, and the python quiz will guess which character you chose!
 
 ## Project Roadmap File
 
