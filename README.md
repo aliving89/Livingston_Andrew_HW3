@@ -1,1 +1,23 @@
-# Livingston_Andrew_HW3
+# Interactive Marvel Quiz
+
+A virtual quiz where the user chooses from 1 of the given Marvel characters - answers a series of questions with a "yes/y" or "no/n" response, and the python quiz will guess which character you chose!
+
+## Project Roadmap File
+
+[Project roadmap Google Doc link](https://docs.google.com/document/d/1FJJ6h5t2xFmB9NOV5THORpub_HltqHn2S-XPXvnAReU/edit?usp=sharing)
+
+## Required Programs and Packages
+[Python 3](https://www.python.org/)
+[Colorama](https://pypi.org/project/colorama/)
+[Emoji](https://pypi.org/project/emoji/)
+[Pillow](https://pypi.org/project/Pillow/)
+
+## MIT License
+
+Copyright 2022 Andrew Livingston
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
