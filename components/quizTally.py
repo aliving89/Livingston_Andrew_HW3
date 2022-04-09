@@ -1,10 +1,22 @@
 from components import vars
+from PIL import Image
+
+ironMan = Image.open("ironMan.jpg")
+groot = Image.open("groot.jpg")
+wWoman = Image.open("wWoman.jpg")
 
 def total(value):
-    # do some logic to see which character you selected
-
-    if value <= 10:
-        vars.character = vars.characters[0]
-
+    if value < 0:
+        vars.character = vars.characters[1]
+        groot.show()
         print("It's " + vars.character)
-        # add some emoji icons, or show the character image using the Pillow package
+    
+    elif value >5000:
+        vars.character = vars.characters[2]
+        wWoman.show()
+        print("It's " + vars.character)
+
+    else:
+        vars.character = vars.characters[0]
+        ironMan.show()
+        print("It's " + vars.character)
